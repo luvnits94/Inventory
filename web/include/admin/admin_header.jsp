@@ -4,11 +4,11 @@
 <html>
     <head>
         <title>Admin</title>
-        <link href="../../css/bootstrap.css" rel="stylesheet"> 
-        <link href="../../css/bootstrap.css.map" rel="stylesheet"> 
-        <link href="../../css/bootstrap.min.css" rel="stylesheet"> 
-        <link href="../../css/bootstrap.min.css.map" rel="stylesheet">
-        <link href="../../css/bootstrap.min.css.map" rel="stylesheet">
+        <link href="css/bootstrap-theme.css.map" rel="stylesheet"> 
+        <link href="css/bootstrap-theme.css.map" rel="stylesheet"> 
+        <link href="css/bootstrap.min.css" rel="stylesheet"> 
+        <link href="css/bootstrap.min.css.map" rel="stylesheet">
+        <link href="css/bootstrap.min.css.map" rel="stylesheet">
         <!link href="js/bootstrap.js" rel="script">
         <!link href="js/bootstrap.min.js" rel="script">
         <!link href="js/npm.js" rel="script">
@@ -35,15 +35,15 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="#" class="navbar-brand ">ONLINE EXAM PORTAL</a>
+                        <a href="#" class="navbar-brand ">STOCK MANAGEMENT</a>
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav ">
                             <li class="active"><a href="admin_home.jsp">Home</a></li>
-                            <li><a href="add_course.jsp"><span class="glyphicon glyphicon-plus"></span>Add a Course</a></li>
-                            <li><a href="view_course.jsp">View Course</a></li>
-                            <li><a href="add_question.jsp"><span class="glyphicon glyphicon-plus"></span>Add a Question</a></li>
-                            <li><a href="approval_request.jsp">Approval Request</a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-plus"></span>New Item</a></li>
+                            <li><a href="#">Delete Item</a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-plus"></span>Extras</a></li>
+                            <li><a href="#">ex1</a></li>
                             <ul class="nav navbar-nav navbar-right">
                                 <!--li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li-->
                                 <li><a href="./LogoutServlet"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>

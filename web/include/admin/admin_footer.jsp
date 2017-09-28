@@ -9,10 +9,10 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="#" class="navbar-brand ">ONLINE EXAM PORTAL</a>
+                        <a href="#" class="navbar-brand ">STOCK MANAGEMENT</a>
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
-                        <ul class="nav navbar-nav">
+<!--                        <ul class="nav navbar-nav">
                             <li class><a href="#">Contact Us</a></li>
                             <li><a href="#">About Us</a></li>
                             <li class="navbar-text">&copy;2017 User Account</li>
@@ -20,7 +20,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#"><!span class="glyphicon glyphicon-user"/>facebook</a></li>
                             <li><a href="#"><!span class="glyphicon glyphicon-log-in"/>Twitter</a></li>
-                        </ul>
+                        </ul>-->
                     </div>
                 </div>
             </nav>
